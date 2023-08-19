@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont{
+    width: 60%;
+    height: 100vh;
+    margin-left: -10px;
+    background-color: green;
+}
+.cont h1{
+    font-size: 140px;
+    font-weight: 400;
+    border-bottom: 1px solid white;
+    color: white;
+}
+.cost{
+    width: 40%;
+    height: 100vh;
+}
+.cost img{
+    width: 550px;
+    height: 400px;
+    position:relative;
+}
+.vl{
+    border-left: 2px solid gray;
+}
